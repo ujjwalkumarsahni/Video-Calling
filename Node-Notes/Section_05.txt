@@ -1,0 +1,16 @@
+Section 5: Data Representation in Computing
+
+1. Introduction to Data Representation in Computing
+2. Decimal Number System
+3. Octal Number System
+4. Hexadecimal Number System
+5. Binary Number System
+6. Introducing Programmer's Calculator
+7. Digital Data Uints
+8. Binary Data on Physical Level
+9. Why DO We Use Decimal System?
+10. Character Sets vs Character Encodings (ASCII and Unicode)
+11. Understanding UTF-8 in Depth
+12. What are Unicode Planes?
+13. UTF-8 vs UTF-16 vs UTF-32
+14. Byte Order Mark (BOM) and Endianness (Big Endian & Little Endian)

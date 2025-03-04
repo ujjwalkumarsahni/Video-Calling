@@ -1,0 +1,16 @@
+Section 3: Basics of OS
+
+1. What Is CPU, Processor, and Core?
+2. What Is OS and Kernel?
+3. What Is a Process?
+4. What Is Thread, Concurrency, and Parallelism?
+5. Can a Process Exist Without a Thread?
+6. Debugging Worker Threads
+7. What Is an Environment Variable?
+8. Setting and Using Environment Variables
+9. Installing Windows Subsystem for Linux (WSL)
+10. Understanding the Path System: Windows vs. Linux Explained
+11. What are Executable Files?
+12. Managing File Permissions
+13. How Commands Get Executed?
+14. Important Methods and Properties of The Process Object

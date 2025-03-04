@@ -1,0 +1,11 @@
+Section 2: Basics of Terminal
+
+1. Introduction to Terminal and Shell
+2. Basic Shell Commands (echo, pwd, whoami)
+3. Navigating the File System (cd)
+4. Listing Directory Contents (ls)
+5. Creating, Copying, Moving, and Deleting Files and Directories (touch, mkdir, cp, mv, rm, rmdir)
+6. Viewing and Editing Files with Commands (cat, nano, vim)
+7. What Is Prompt in Terminal?
+8. Configuring Our Terminal Using .bashrc File
+9. Using Aliases for Command Shortcuts (alias)

@@ -1,0 +1,34 @@
+Section 1: Introduction to Backend and Node.js
+
+1. Prerequisites
+    A. Basics of Frontend
+        --> HTML/CSS: Basic knowledge of HTML and CSS is useful since we'll be using Node.js for web development.
+    B. Good Knowledge of JavaScript
+        --> Syntax and Basics: You should be comfortable with JavaScript syntax, variables, loops,      conditionals, functions, and error handling.
+        --> Advanced JavaScript Concepts: Understanding concepts like closures, callbacks, promises, async/await, classes & OOPs, JSON, and event handling is crucial since Node.js heavily relies on asynchronous programming.
+
+2. What Is Backend & Client Server Architecture?
+3. CLI vs GUI
+4. What Is Node.js and What Is It Used For?
+5. Installing Node.js
+6. Running Our First Node.js Code
+7. Why Do We Need Node.js and How Is It Different From JavaScript in Browser?
+8. A Brief History of Node.js
+
+
+*** Related Quetions ***
+1) What is Node.js?
+2) What Does Open-Source Mean in Node.js?
+3) What is a JavaScript Runtime Environment?
+4) Why Node.js is Special as a Runtime
+5) Why Do We Need Node.js?
+6) Real-World Use Cases of Node.js
+7) The Million Dollar Question: Why Learn Node.js?
+8) What Are npm Packages? 
+9) Introduction to Node.js History
+10) How to install Node.js in Step by step
+11) Why Node.js is Different from Browsers
+12) JavaScript window and document in Browsers
+13) Why No window or document in Node.js?
+14) Understanding the global Object in Node.js
+15) The Role of globalThis in Node.js
